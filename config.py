@@ -37,4 +37,4 @@ OPENAI_API_KEY = "***please enter api key***"
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 SENDER_EMAIL = "cse.abhishekyadav45@gmail.com"
-SENDER_PASSWORD = "iinswcmxlsjgenvm"
+SENDER_PASSWORD = "iinswcmxlsjgjohhl"
